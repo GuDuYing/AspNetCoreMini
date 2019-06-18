@@ -1,0 +1,12 @@
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\obj\Debug\netcoreapp3.0\MiniHost.csprojAssemblyReference.cache
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\obj\Debug\netcoreapp3.0\MiniHost.csproj.CoreCompileInputs.cache
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\obj\Debug\netcoreapp3.0\MiniHost.AssemblyInfoInputs.cache
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\obj\Debug\netcoreapp3.0\MiniHost.AssemblyInfo.cs
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\bin\Debug\netcoreapp3.0\MiniHost.exe
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\bin\Debug\netcoreapp3.0\MiniHost.deps.json
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\bin\Debug\netcoreapp3.0\MiniHost.runtimeconfig.json
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\bin\Debug\netcoreapp3.0\MiniHost.runtimeconfig.dev.json
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\bin\Debug\netcoreapp3.0\MiniHost.dll
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\bin\Debug\netcoreapp3.0\MiniHost.pdb
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\obj\Debug\netcoreapp3.0\MiniHost.dll
+G:\MyCode\Net\AspNetCore_Mini\MiniHost\obj\Debug\netcoreapp3.0\MiniHost.pdb
